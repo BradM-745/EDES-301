@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project implements a car heads-up display (HUD) using a **PocketBeagle** board, GPS module, 7-segment display, buttons, and a potentiometer. The system reads GPS data (such as speed and heading), displays it on the 7-segment display, and allows user interaction through buttons for various functions like starting a timer or adjusting display brightness.
+This project implements a car heads-up display (HUD) using a **PocketBeagle** board, GPS module, 7-segment display, buttons, and a potentiometer. The system reads GPS data (such as speed and heading), displays it on the 7-segment display, and allows user interaction through buttons for various functions like starting a timer or adjusting display brightness. 
+
+note: there are still many bugs in this code that I'm working on so stay tuned for updates!
 
 ## Components
 
