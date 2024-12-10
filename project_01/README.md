@@ -1,6 +1,6 @@
 # Car HUD Project
 
-This project involves creating a Car Heads-Up Display (HUD) using a PocketBeagle, a GPS module, and a 7-segment display. The system provides real-time speed, heading, and a custom timer that reacts to the vehicle's speed.
+This project involves creating a Car Heads-Up Display (HUD) using a PocketBeagle, a GPS module, and a 7-segment display. The system provides real-time speed, heading, and a custom timer that reacts to the vehicle's speed. I still have a lot of refinement to do before this project is fully complete, but please enjoy what I've done so far!
 
 ## Features
 - Displays current speed on a 7-segment display.
