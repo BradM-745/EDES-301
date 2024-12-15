@@ -3,6 +3,6 @@
 
 <h2>Features:</h2>
 <p> This project utilizes an SPI screen to enable the use of colors when drawing. Two potentiometers\n
-are used to draw on the scree. To change colors, a button on the back of the board can be pressed to cycle\n
+are used to draw on the screen. To change colors, a button on the back of the board can be pressed to cycle
 between red, green, and blue. The device can be turned on or off by pressing the power button on the \n
 back of the board. The project can easily be expanded by using the included USB port.</p>
